@@ -38,9 +38,7 @@ Time spent per domain (in seconds)
 
 📷 Extension Preview
 
-![image](https://github.com/user-attachments/assets/6594e964-5138-4c0a-b037-39596754a01e)
-
-
+![image](https://github.com/user-attachments/assets/bba63c30-a04e-4ff4-9b0b-e6edb3a7f309)
 
 🖥️ How to Use
 
