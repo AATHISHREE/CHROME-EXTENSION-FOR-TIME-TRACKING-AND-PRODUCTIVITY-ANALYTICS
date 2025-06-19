@@ -58,7 +58,7 @@ Click the extension icon (Time Tracker) to view usage
 
 🚀 Live Repo
 
-🔗 GitHub Repository:
+🔗 GitHub Repository:https://github.com/AATHISHREE/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS.git
 
 📁 Project Structure
 
