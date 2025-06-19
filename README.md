@@ -12,7 +12,7 @@
 
 📌 DESCRIPTION:
 
-As a Task 2 project for the CodTech Full Stack Development Internship, I built this Time Tracker Chrome Extension. It automatically tracks the time spent on each website and provides simple productivity analytics. The extension runs in the background, stores usage data, and displays it in a clean popup interface.
+As a Task 4 project for the CodTech Full Stack Development Internship, I built this Time Tracker Chrome Extension. It automatically tracks the time spent on each website and provides simple productivity analytics. The extension runs in the background, stores usage data, and displays it in a clean popup interface.
 
 🛠️ Technologies Used
 
